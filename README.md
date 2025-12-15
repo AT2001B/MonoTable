@@ -50,6 +50,7 @@ public partial ClassName : ITable
 }
 ```
 可以通过修改Editor->ProjectSetting->MonoTableSetting中的生成路径，修改自动生成代码的路径。
+可以看到代码中还存储了资源信息和uigotable路径，用于查重，保证一个UIGoTable对应生成一个脚本文件。
 
 ## 5.使用
 在使用时你可以直接
