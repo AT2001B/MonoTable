@@ -2,7 +2,9 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.UIElements;
-namespace MonoTable {
+using MonoTable;
+namespace MonoTableEditor
+{
     public class MonoTableSettingProvider : SettingsProvider
     {
         private MonoTableSetting settings;

@@ -1,0 +1,16 @@
+{
+    "name": "MonoTableEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f2ce6500de9308045bba6063696df3ec"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -10,9 +10,11 @@ using Unity.VisualScripting;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using MonoTable;
 using static Unity.IO.LowLevel.Unsafe.AsyncReadManagerMetrics;
 
-namespace MonoTable {
+namespace MonoTableEditor
+{
     [CustomEditor(typeof(UIGOTable))]
     public class UIGOTableEditor : Editor
     {
